@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Node (if you add npm in future)
+node_modules/
+package-lock.json
+
+# Dependencies
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
